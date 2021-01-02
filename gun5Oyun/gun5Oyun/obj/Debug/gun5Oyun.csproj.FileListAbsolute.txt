@@ -1,0 +1,46 @@
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.AnaEkran.resources
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.KullaniciGiris.resources
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.Properties.Resources.resources
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csproj.GenerateResource.Cache
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe.config
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.pdb
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.exe
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.pdb
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csprojResolveAssemblyReference.cache
+c:\users\exper\documents\visual studio 2012\Projects\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.OyunTahtasi.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe.config
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.exe
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.pdb
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.pdb
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csprojResolveAssemblyReference.cache
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.AnaEkran.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.KullaniciGiris.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.OyunTahtasi.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.Properties.Resources.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csproj.GenerateResource.Cache
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe.config
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.pdb
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csprojAssemblyReference.cache
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.AnaEkran.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.KullaniciGiris.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.OyunTahtasi.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.Properties.Resources.resources
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csproj.GenerateResource.cache
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csproj.CoreCompileInputs.cache
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.exe
+C:\Users\erunes\Desktop\YAZILIM STAJ GÜNLÜK VE KODLAR\günlük\gün5\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.pdb
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe.config
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.exe
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\bin\Debug\gun5Oyun.pdb
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csprojAssemblyReference.cache
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.AnaEkran.resources
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.KullaniciGiris.resources
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.OyunTahtasi.resources
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.Properties.Resources.resources
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csproj.GenerateResource.cache
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.csproj.CoreCompileInputs.cache
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.exe
+C:\Users\batur\Desktop\gun5Oyun\gun5Oyun\gun5Oyun\obj\Debug\gun5Oyun.pdb
